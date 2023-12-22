@@ -1,0 +1,2 @@
+#!/bin/sh
+minikube start
